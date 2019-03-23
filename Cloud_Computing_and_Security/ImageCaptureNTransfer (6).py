@@ -6,8 +6,8 @@ from botocore.client import Config
 from Crypto.Cipher import AES
 from Crypto import Random
 
-ACCESS_KEY_ID = 'AKIAISJ6R7CCCZ3RQDVA'
-ACCESS_SECRET_KEY = 'qiqZHG7cn7VCuZUZTWYHt9WGiZba0XN/782p97ld'
+ACCESS_KEY_ID = 'Give your access key id'
+ACCESS_SECRET_KEY = 'Give your access secret key'
 BUCKET_NAME = 'raspberryexample'
 
 camera = PiCamera()
